@@ -276,3 +276,4 @@ Source/.vs/MtX.Nro2Nsp/v15/Server/sqlite3/storage.ide-shm
 Source/.vs/MtX.Nro2Nsp/v15/Server/sqlite3/storage.ide
 Source/.vs/MtX.Nro2Nsp/v15/Browse.VC.db
 Source/.vs/MtX.Nro2Nsp/v15/.suo
+*.db
